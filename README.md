@@ -1,2 +1,2 @@
 # hello-world
-hello-world repository from GitHub guide.
+GitHub guide made me write this.
